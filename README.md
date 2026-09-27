@@ -1,3 +1,3 @@
 # gcf-test
 
-gcf testing via webhook
+gcf testing via webhook to cloudfunction to Slack
